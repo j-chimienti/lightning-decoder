@@ -34,6 +34,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: gh pages
         uses: crazy-max/ghaction-github-pages@v2.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           build_dir: build
           
