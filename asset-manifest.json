@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lightning-decoder/static/css/main.5005f64e.chunk.css",
+    "main.js": "/lightning-decoder/static/js/main.84ad2638.chunk.js",
+    "main.js.map": "/lightning-decoder/static/js/main.84ad2638.chunk.js.map",
+    "runtime~main.js": "/lightning-decoder/static/js/runtime~main.735ba5f9.js",
+    "runtime~main.js.map": "/lightning-decoder/static/js/runtime~main.735ba5f9.js.map",
+    "static/js/2.9a00b97a.chunk.js": "/lightning-decoder/static/js/2.9a00b97a.chunk.js",
+    "static/js/2.9a00b97a.chunk.js.map": "/lightning-decoder/static/js/2.9a00b97a.chunk.js.map",
+    "index.html": "/lightning-decoder/index.html",
+    "precache-manifest.67065b1ba13aaa6e232966959e67ce16.js": "/lightning-decoder/precache-manifest.67065b1ba13aaa6e232966959e67ce16.js",
+    "service-worker.js": "/lightning-decoder/service-worker.js",
+    "static/css/main.5005f64e.chunk.css.map": "/lightning-decoder/static/css/main.5005f64e.chunk.css.map",
+    "static/media/arrow.svg": "/lightning-decoder/static/media/arrow.c97cc055.svg",
+    "static/media/bolt.png": "/lightning-decoder/static/media/bolt.6f1ab4b1.png",
+    "static/media/close.svg": "/lightning-decoder/static/media/close.3f436264.svg",
+    "static/media/github.svg": "/lightning-decoder/static/media/github.ae2c64de.svg"
+  }
+}
